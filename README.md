@@ -1,2 +1,2 @@
-# Quiz-Programa-o
+# Quiz-Programacao
 Quiz Programação
